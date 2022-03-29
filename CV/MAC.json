@@ -1,0 +1,56 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Raúl",
+      "surnames": "Cotrina",
+      "title": "",
+      "description": "Porque yo soy un truhan, soy un señor algo bohemio y soñador",
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/raulcotrina"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "Swedish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/"
+        }
+      ]
+    }
+  }
+}
