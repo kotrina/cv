@@ -29,6 +29,31 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "logo-manfred.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d28ffc05-ad4c-465f-9f20-32f42259fc03_logo-manfred.svg"
+          },
+          "URL": "http://www.getmanfred.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Business Development",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
