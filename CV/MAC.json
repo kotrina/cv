@@ -15,7 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/aa1541f0-c8a9-4e14-836c-05f041c66d48_cotri-2.png"
       },
       "location": {
-        "notes": ""
+        "notes": "Madrid"
       }
     },
     "relevantLinks": [
@@ -35,13 +35,40 @@
         "name": "Spanish"
       },
       {
-        "name": "Swedish"
+        "name": "English"
+      },
+      {
+        "name": "Italian"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "API",
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airtable",
           "type": "technology"
         }
       }
