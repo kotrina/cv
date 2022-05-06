@@ -173,6 +173,17 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Italian"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -189,12 +200,6 @@
       {
         "skill": {
           "name": "Google Data Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
           "type": "technology"
         }
       },
