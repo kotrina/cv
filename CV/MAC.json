@@ -9,7 +9,7 @@
       "name": "Raúl",
       "surnames": "Cotrina",
       "title": "Building Manfred | Sales",
-      "description": "I'm passionate about business intelligente and data technologies. More than 10 years working with data.",
+      "description": "Dev, Tech, Sales & recruiting. 🇪🇸 & 🇮🇹. Changing tech recruiting in \n@getmanfred / @sngular",
       "avatar": {
         "alt": "Cotri-2.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/aa1541f0-c8a9-4e14-836c-05f041c66d48_cotri-2.png"
@@ -194,6 +194,12 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle Cloud",
           "type": "technology"
         }
       },
