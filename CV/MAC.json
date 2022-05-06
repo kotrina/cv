@@ -262,7 +262,11 @@
         "startDate": "2012-01-01",
         "finishDate": "2012-01-01",
         "institution": {
-          "name": "Quistor"
+          "name": "Quistor",
+          "image": {
+            "alt": "descarga (3).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/2e62491d-6b18-46cc-bca3-0f30e886ccba_descarga-(3).png"
+          }
         }
       },
       {
