@@ -72,13 +72,23 @@
       {
         "organization": {
           "name": "Grupo VARMA",
+          "image": {
+            "alt": "logo-varma-new.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/0bf91bb9-6c63-4e07-9964-9b4c57462e23_logo-varma-new.jpg"
+          },
           "URL": "https://www.linkedin.com/company/grupo-varma?trk=public_profile_experience-group-header"
         },
         "roles": [
           {
-            "name": "BI / Data Responsible",
+            "name": "Data / BI Tech Lead",
             "startDate": "2014-04-01",
-            "finishDate": "2019-02-28"
+            "finishDate": "2019-02-28",
+            "competences": [
+              {
+                "name": "Power BI",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
