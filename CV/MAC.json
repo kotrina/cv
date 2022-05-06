@@ -213,7 +213,11 @@
         "startDate": "2019-06-01",
         "finishDate": "2019-06-01",
         "institution": {
-          "name": "Oracle"
+          "name": "Oracle",
+          "image": {
+            "alt": "DNGbu_iz_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/6fae69e2-8a89-4d96-8ca9-5912a85a7263_dngbu_iz_400x400.jpg"
+          }
         }
       },
       {
