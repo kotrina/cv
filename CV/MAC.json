@@ -95,6 +95,10 @@
       {
         "organization": {
           "name": "Grupo VARMA",
+          "image": {
+            "alt": "logo-varma-new.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/e9e77b66-e91c-47be-b6bd-8739a1f38e49_logo-varma-new.jpg"
+          },
           "URL": "https://www.linkedin.com/company/grupo-varma?trk=public_profile_experience-group-header"
         },
         "roles": [
