@@ -207,19 +207,6 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Computer Science ",
-        "startDate": "2002-01-01",
-        "institution": {
-          "name": "UNED",
-          "image": {
-            "alt": "unnamed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/2bd5158d-7515-4d2c-8180-f9b823ef626b_unnamed.jpg"
-          }
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Oracle Analytics Cloud 2018 Presales Specialist",
@@ -282,6 +269,20 @@
         "finishDate": "2011-10-01",
         "institution": {
           "name": "Scrum Alliance"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Science ",
+        "startDate": "2002-09-01",
+        "finishDate": "2010-06-01",
+        "institution": {
+          "name": "UNED",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/dbe015e8-743f-41dd-bd5f-afcc67a5f59b_unnamed.jpg"
+          }
         }
       },
       {
