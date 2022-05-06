@@ -227,7 +227,11 @@
         "startDate": "2018-05-01",
         "finishDate": "2018-05-01",
         "institution": {
-          "name": "SAP"
+          "name": "SAP",
+          "image": {
+            "alt": "descarga.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/010fd5b2-ae5c-4da9-8ef6-f6f9e19535b1_descarga.jpg"
+          }
         }
       },
       {
