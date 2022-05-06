@@ -297,11 +297,15 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " ",
+        "name": " Linguistics",
         "startDate": "1996-05-01",
         "finishDate": "2000-06-01",
         "institution": {
-          "name": "Universidad de Alcalá."
+          "name": "Universidad de Alcalá.",
+          "image": {
+            "alt": "descarga (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/f456a08d-4b39-4d2e-b907-b323b31d2bac_descarga-(2).png"
+          }
         }
       }
     ]
