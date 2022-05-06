@@ -112,6 +112,10 @@
       {
         "organization": {
           "name": "Software AG",
+          "image": {
+            "alt": "sag-primary-logo-dark.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/b72d7eb7-b587-46a7-8bed-be1c3fb75ffa_sag-primary-logo-dar.svg"
+          },
           "URL": "https://www.linkedin.com/company/software-ag?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
