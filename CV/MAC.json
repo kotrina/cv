@@ -253,7 +253,11 @@
         "finishDate": "2015-12-31",
         "institution": {
           "name": "EAE Business School",
-          "URL": "https://www.linkedin.com/school/eae-business-school/?trk=public_profile_school_profile-section-card_full-click"
+          "URL": "https://www.linkedin.com/school/eae-business-school/?trk=public_profile_school_profile-section-card_full-click",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/cf0376dd-21f2-4827-98a2-f6f04ee1d784_descarga-(1).png"
+          }
         }
       },
       {
