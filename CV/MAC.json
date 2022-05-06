@@ -130,6 +130,10 @@
       {
         "organization": {
           "name": "Grupo Oesía",
+          "image": {
+            "alt": "logo_oesia_011.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/4665c89d-f37e-4c31-bd02-1f7806453e7e_logo_oesia_011.png"
+          },
           "URL": "https://www.linkedin.com/company/oesia?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
