@@ -209,15 +209,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
-        "name": " ",
-        "startDate": "2022-05-06",
-        "institution": {
-          "name": "Universidad de Alcalá."
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
         "name": "Computer Science ",
         "startDate": "2002-01-01",
         "institution": {
@@ -293,6 +284,16 @@
         "finishDate": "2002-12-31",
         "institution": {
           "name": "CFDTI - IBM"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": " ",
+        "startDate": "1996-05-01",
+        "finishDate": "2000-06-01",
+        "institution": {
+          "name": "Universidad de Alcalá."
         }
       }
     ]
