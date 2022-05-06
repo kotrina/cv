@@ -212,7 +212,11 @@
         "name": "Computer Science ",
         "startDate": "2002-01-01",
         "institution": {
-          "name": "UNED"
+          "name": "UNED",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/2bd5158d-7515-4d2c-8180-f9b823ef626b_unnamed.jpg"
+          }
         }
       },
       {
