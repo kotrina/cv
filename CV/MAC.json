@@ -241,7 +241,11 @@
         "startDate": "2018-02-01",
         "finishDate": "2018-02-01",
         "institution": {
-          "name": "barrahache"
+          "name": "barrahache",
+          "image": {
+            "alt": "1524738767245.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/acc25da0-aa91-42b1-8707-6c0d4d4658c3_1524738767245.jpg"
+          }
         }
       },
       {
