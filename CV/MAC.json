@@ -50,6 +50,10 @@
       {
         "organization": {
           "name": "avanttic Consultoría Tecnológica",
+          "image": {
+            "alt": "avanttic-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/78b40bf9-024c-4e50-8941-b7c3003ae26b_avanttic-logo.svg"
+          },
           "URL": "https://www.linkedin.com/company/avanttic?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
