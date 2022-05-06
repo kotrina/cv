@@ -287,7 +287,11 @@
         "startDate": "2001-01-01",
         "finishDate": "2002-12-31",
         "institution": {
-          "name": "CFDTI - IBM"
+          "name": "CFDTI - IBM",
+          "image": {
+            "alt": "descarga (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/04cbaaa2-06b0-4f8c-9b2e-ad87114a0515_descarga-(2).png"
+          }
         }
       },
       {
