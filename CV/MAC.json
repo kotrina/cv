@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/aa1541f0-c8a9-4e14-836c-05f041c66d48_cotri-2.png"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -85,7 +87,7 @@
             "finishDate": "2019-02-28",
             "competences": [
               {
-                "name": "Power BI",
+                "name": "Microsoft Power BI",
                 "type": "technology"
               }
             ]
@@ -170,6 +172,20 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "De programador a recruiter, ¿por qué pasarse al lado oscuro?",
+          "URL": "https://www.madridrb.com/topics/de-programador-a-recruiter-por-que-pasarse-al-lado-oscuro-950",
+          "image": {
+            "alt": "madridrb-bc0a2c1001fcefdfe248c65e4b9104ec4d2b54c8aed05fe18b2dc3e1a7a086b6.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/09/69ca72a2-7d8c-4dc6-9eee-040d4a6562de_madridrb-bc0a2c1001f.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2021-10-01"
+      }
     ]
   },
   "knowledge": {
@@ -199,7 +215,7 @@
       },
       {
         "skill": {
-          "name": "Oracle Cloud",
+          "name": "Airtable",
           "type": "technology"
         }
       },
@@ -211,7 +227,7 @@
       },
       {
         "skill": {
-          "name": "Airtable",
+          "name": "Oracle Cloud",
           "type": "technology"
         }
       }
@@ -353,6 +369,14 @@
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/"
         }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Pre-Sales Engineer",
+        "Sales & Business Development",
+        "Technical Recruitment"
       ]
     }
   }
