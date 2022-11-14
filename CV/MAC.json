@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -191,13 +192,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Italian"
+        "name": "Italian",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -372,12 +376,43 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Airtable",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle Data Visualization",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Business Operations & Strategy",
         "Pre-Sales Engineer",
         "Sales & Business Development",
         "Technical Recruitment"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
