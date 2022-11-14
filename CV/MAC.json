@@ -382,11 +382,23 @@
           "type": "technology"
         },
         {
+          "name": "Atlassian",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
         {
           "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Notion",
           "type": "technology"
         },
         {
