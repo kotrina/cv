@@ -9,7 +9,7 @@
       "name": "Raúl",
       "surnames": "Cotrina",
       "title": "Building Manfred | BizDev",
-      "description": "Dev, Tech, Sales & recruiting. 🇪🇸 & 🇮🇹. Changing tech recruiting in \n@getmanfred / @sngular",
+      "description": "Dev, Tech, Sales & recruiting. 🇪🇸 & 🇮🇹. Changing tech recruiting in @getmanfred / @sngular",
       "avatar": {
         "alt": "Cotri-2.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/aa1541f0-c8a9-4e14-836c-05f041c66d48_cotri-2.png"
@@ -193,15 +193,15 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "Italian",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
