@@ -35,22 +35,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Apr 2006 - Sep 2014 "
-        },
-        "roles": [
-          {
-            "name": "Oracle / Java Analyst",
-            "startDate": "2022-12-28",
-            "challenges": [
-              {
-                "description": "Oracle / Java Analyst"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "alt": "logo-manfred.svg",
