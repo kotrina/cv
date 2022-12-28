@@ -73,7 +73,11 @@
       },
       {
         "organization": {
-          "name": "CGI "
+          "name": "CGI ",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/89ddd3a2-5e6c-478f-be15-d81b860e6661_descarga-(1).png"
+          }
         },
         "roles": [
           {
