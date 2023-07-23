@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,27 +9,18 @@
       "name": "Raúl",
       "surnames": "Cotrina",
       "title": "Building Manfred | BizDev",
-      "description": "I'm a developer with more than 15 years of experience that has changed his career to positions related to sales and business development, always in IT industry",
+      "description": "Dev, Tech, Sales & recruiting. 🇪🇸 & 🇮🇹. Changing tech recruiting in @getmanfred / @sngular\n\nI've developed all my career in the IT industry. I started more than 20 years ago as a software developer and during all these years I've worked in many different roles: senior developer, team lead, pre-sales, and now helping Manfred to reach more customer ",
       "avatar": {
-        "alt": "_V0E9383_2.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/a0e83500-2123-47f6-9242-f2e538319e06__v0e9383_2.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/a0e83500-2123-47f6-9242-f2e538319e06__v0e9383_2.jpg",
+        "alt": "_V0E9383_2.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/raulcotrina"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -37,8 +28,8 @@
         "organization": {
           "name": "Manfred",
           "image": {
-            "alt": "logo-manfred.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d28ffc05-ad4c-465f-9f20-32f42259fc03_logo-manfred.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d28ffc05-ad4c-465f-9f20-32f42259fc03_logo-manfred.svg",
+            "alt": "logo-manfred.svg"
           },
           "URL": "http://www.getmanfred.com"
         },
@@ -58,8 +49,8 @@
         "organization": {
           "name": "CGI ",
           "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/89ddd3a2-5e6c-478f-be15-d81b860e6661_descarga-(1).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/89ddd3a2-5e6c-478f-be15-d81b860e6661_descarga-(1).png",
+            "alt": "descarga (1).png"
           }
         },
         "roles": [
@@ -79,8 +70,8 @@
         "organization": {
           "name": "Grupo VARMA",
           "image": {
-            "alt": "logo-varma-new.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/0bf91bb9-6c63-4e07-9964-9b4c57462e23_logo-varma-new.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/0bf91bb9-6c63-4e07-9964-9b4c57462e23_logo-varma-new.jpg",
+            "alt": "logo-varma-new.jpg"
           },
           "URL": "https://www.linkedin.com/company/grupo-varma?trk=public_profile_experience-group-header"
         },
@@ -102,8 +93,8 @@
         "organization": {
           "name": "Grupo VARMA",
           "image": {
-            "alt": "logo-varma-new.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/e9e77b66-e91c-47be-b6bd-8739a1f38e49_logo-varma-new.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/e9e77b66-e91c-47be-b6bd-8739a1f38e49_logo-varma-new.jpg",
+            "alt": "logo-varma-new.jpg"
           },
           "URL": "https://www.linkedin.com/company/grupo-varma?trk=public_profile_experience-group-header"
         },
@@ -119,8 +110,8 @@
         "organization": {
           "name": "Software AG",
           "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/32fe0c79-b298-4c26-b45e-e9a0257ca111_descarga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/32fe0c79-b298-4c26-b45e-e9a0257ca111_descarga.png",
+            "alt": "descarga.png"
           },
           "URL": "https://www.linkedin.com/company/software-ag?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -141,8 +132,8 @@
         "organization": {
           "name": "Grupo Oesía",
           "image": {
-            "alt": "logo_oesia_011.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/4665c89d-f37e-4c31-bd02-1f7806453e7e_logo_oesia_011.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/4665c89d-f37e-4c31-bd02-1f7806453e7e_logo_oesia_011.png",
+            "alt": "logo_oesia_011.png"
           },
           "URL": "https://www.linkedin.com/company/oesia?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -183,8 +174,8 @@
           "name": "De programador a recruiter, ¿por qué pasarse al lado oscuro?",
           "URL": "https://www.madridrb.com/topics/de-programador-a-recruiter-por-que-pasarse-al-lado-oscuro-950",
           "image": {
-            "alt": "madridrb-bc0a2c1001fcefdfe248c65e4b9104ec4d2b54c8aed05fe18b2dc3e1a7a086b6.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/09/69ca72a2-7d8c-4dc6-9eee-040d4a6562de_madridrb-bc0a2c1001f.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/09/69ca72a2-7d8c-4dc6-9eee-040d4a6562de_madridrb-bc0a2c1001f.png",
+            "alt": "madridrb-bc0a2c1001fcefdfe248c65e4b9104ec4d2b54c8aed05fe18b2dc3e1a7a086b6.png"
           }
         },
         "type": "talk",
@@ -195,28 +186,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Italian"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "IT",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Airtable",
@@ -231,6 +213,18 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Oracle Cloud",
           "type": "technology"
         }
@@ -238,130 +232,150 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Oracle Analytics Cloud 2018 Presales Specialist",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "Oracle",
-          "image": {
-            "alt": "DNGbu_iz_400x400.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/6fae69e2-8a89-4d96-8ca9-5912a85a7263_dngbu_iz_400x400.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Data Migration to SAP S/4HANA (s4h8)",
-        "startDate": "2018-05-01",
-        "finishDate": "2018-05-01",
-        "institution": {
-          "name": "SAP",
-          "image": {
-            "alt": "descarga.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/010fd5b2-ae5c-4da9-8ef6-f6f9e19535b1_descarga.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "SAP BW (60h)",
-        "startDate": "2018-02-01",
-        "finishDate": "2018-02-01",
-        "institution": {
-          "name": "barrahache",
-          "image": {
-            "alt": "1524738767245.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/acc25da0-aa91-42b1-8707-6c0d4d4658c3_1524738767245.jpg"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Programa Superior Universitario en Marketing Digital y Comercio Electrónico Marketing",
-        "startDate": "2014-01-01",
-        "finishDate": "2015-12-31",
+        "name": " Linguistics",
+        "startDate": "1996-05-01",
         "institution": {
-          "name": "EAE Business School",
-          "URL": "https://www.linkedin.com/school/eae-business-school/?trk=public_profile_school_profile-section-card_full-click",
+          "name": "Universidad de Alcalá.",
           "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/cf0376dd-21f2-4827-98a2-f6f04ee1d784_descarga-(1).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/085d4505-055f-4c86-b969-1058c79915ab_logo_uah.jpg",
+            "alt": "logo_uah.jpg"
           }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "OBIEE and ETL Development (120h)",
-        "startDate": "2012-01-01",
-        "finishDate": "2012-01-01",
-        "institution": {
-          "name": "Quistor",
-          "image": {
-            "alt": "descarga (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/2e62491d-6b18-46cc-bca3-0f30e886ccba_descarga-(3).png"
-          }
-        }
+        },
+        "finishDate": "2000-06-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified ScrumMaster",
         "startDate": "2011-10-01",
-        "finishDate": "2011-10-01",
         "institution": {
           "name": "Scrum Alliance",
           "image": {
-            "alt": "descarga (1).jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/72909ec5-33cb-485d-9674-38ef4b2c608b_descarga-(1).jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/72909ec5-33cb-485d-9674-38ef4b2c608b_descarga-(1).jpg",
+            "alt": "descarga (1).jpg"
           }
-        }
+        },
+        "finishDate": "2011-10-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Science ",
         "startDate": "2002-09-01",
-        "finishDate": "2010-06-01",
         "institution": {
           "name": "UNED",
           "image": {
-            "alt": "unnamed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/dbe015e8-743f-41dd-bd5f-afcc67a5f59b_unnamed.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/dbe015e8-743f-41dd-bd5f-afcc67a5f59b_unnamed.jpg",
+            "alt": "unnamed.jpg"
           }
-        }
+        },
+        "finishDate": "2010-06-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Data Migration to SAP S/4HANA (s4h8)",
+        "startDate": "2018-05-01",
+        "institution": {
+          "name": "SAP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/010fd5b2-ae5c-4da9-8ef6-f6f9e19535b1_descarga.jpg",
+            "alt": "descarga.jpg"
+          }
+        },
+        "finishDate": "2018-05-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master en desarrollo de aplicaciones J2EE Desarrollo de aplicaciones",
         "startDate": "2001-01-01",
-        "finishDate": "2002-12-31",
         "institution": {
           "name": "CFDTI - IBM",
           "image": {
-            "alt": "descarga (2).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/37d645c7-bc5a-4003-8539-acddeb380f12_descarga-(2).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/37d645c7-bc5a-4003-8539-acddeb380f12_descarga-(2).png",
+            "alt": "descarga (2).png"
           }
-        }
+        },
+        "finishDate": "2002-12-31"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "OBIEE and ETL Development (120h)",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "Quistor",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/2e62491d-6b18-46cc-bca3-0f30e886ccba_descarga-(3).png",
+            "alt": "descarga (3).png"
+          }
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Oracle Analytics Cloud 2018 Presales Specialist",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "Oracle",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/6fae69e2-8a89-4d96-8ca9-5912a85a7263_dngbu_iz_400x400.jpg",
+            "alt": "DNGbu_iz_400x400.jpg"
+          }
+        },
+        "finishDate": "2019-06-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " Linguistics",
-        "startDate": "1996-05-01",
-        "finishDate": "2000-06-01",
+        "name": "Programa Superior Universitario en Marketing Digital y Comercio Electrónico Marketing",
+        "startDate": "2014-01-01",
         "institution": {
-          "name": "Universidad de Alcalá.",
+          "name": "EAE Business School",
+          "URL": "https://www.linkedin.com/school/eae-business-school/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
-            "alt": "logo_uah.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/085d4505-055f-4c86-b969-1058c79915ab_logo_uah.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/cf0376dd-21f2-4827-98a2-f6f04ee1d784_descarga-(1).png",
+            "alt": "descarga (1).png"
           }
+        },
+        "finishDate": "2015-12-31"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SAP BW (60h)",
+        "startDate": "2018-02-01",
+        "institution": {
+          "name": "barrahache",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/acc25da0-aa91-42b1-8707-6c0d4d4658c3_1524738767245.jpg",
+            "alt": "1524738767245.jpg"
+          }
+        },
+        "finishDate": "2018-02-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
         }
       }
     ]
@@ -370,8 +384,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/"
+          "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/raulcotrina",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "raulcotrina@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "699089093",
+          "countryCode": "+34"
         }
       ]
     },
@@ -429,6 +456,10 @@
         "Sales & Business Development",
         "Sales Leadership & Management"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I want to work in startups or expansive environments, creating new products and helping the people to find the best place to work"
   }
 }
