@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -20,7 +20,17 @@
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/raul-cotrina-secas-31573730/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/raulcotrina"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -187,14 +197,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "IT",
+        "fullName": "Italiano",
         "level": "Full professional proficiency"
       }
     ],
@@ -460,6 +473,12 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I want to work in startups or expansive environments, creating new products and helping the people to find the best place to work"
   }
 }
