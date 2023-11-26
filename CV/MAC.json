@@ -226,6 +226,12 @@
       },
       {
         "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -239,6 +245,12 @@
       {
         "skill": {
           "name": "Oracle Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pipedrive",
           "type": "technology"
         }
       }
