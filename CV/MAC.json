@@ -490,10 +490,6 @@
         {
           "name": "PostgreSQL",
           "type": "technology"
-        },
-        {
-          "name": "Tableau",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
