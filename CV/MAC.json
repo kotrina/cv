@@ -190,6 +190,28 @@
         },
         "type": "talk",
         "publishingDate": "2021-10-01"
+      },
+      {
+        "details": {
+          "name": "Advanced Analytics con Oracle Autonomous Data Warehouse",
+          "URL": "https://es.slideshare.net/avanttic/webinar-advanced-analytics-con-oracle-autonomous-data-warehouse",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/4359b7e4-02cb-43ad-8a60-69d088636637_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2020-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle Cloud",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
