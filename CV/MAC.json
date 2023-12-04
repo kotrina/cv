@@ -452,10 +452,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Airtable",
-          "type": "technology"
-        },
-        {
           "name": "Atlassian",
           "type": "technology"
         },
@@ -469,10 +465,6 @@
         },
         {
           "name": "NoSQL",
-          "type": "technology"
-        },
-        {
-          "name": "Notion",
           "type": "technology"
         },
         {
