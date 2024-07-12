@@ -36,6 +36,26 @@
     "jobs": [
       {
         "organization": {
+          "name": "Circular",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/3b92c3e6-c203-4b4d-84e3-a0e49988a299_logotype-white-big.svg",
+            "alt": "logotype-white-big.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Sales",
+            "startDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "\"At Manfred, we acquired Circular, and I expanded and took on the sales of Circular, a SaaS product for recruiting. The challenge was to combine SaaS sales with service sales and to integrate the entire customer portfolio, leveraging both products to promote cross-selling strategies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Manfred",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d28ffc05-ad4c-465f-9f20-32f42259fc03_logo-manfred.svg",
