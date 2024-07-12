@@ -9,7 +9,7 @@
       "name": "Raúl",
       "surnames": "Cotrina",
       "title": "Building Manfred | Sales",
-      "description": "Dev, Tech, Sales & recruiting. 🇪🇸 & 🇮🇹. Changing tech recruiting in @getmanfred / @sngular talking with friends in www.developersessions.dev\n\nI've developed all my career in the IT industry. I started more than 20 years ago as a software developer and during all these years I've worked in many different roles: senior developer, team lead, pre-sales, and now helping Manfred to reach more customer ",
+      "description": "Dev, Tech, Sales & recruiting. 🇪🇸 & 🇮🇹. Changing tech recruiting in @getmanfred / @sngular talking with friends in www.developersessions.dev\n\nI've developed all my career in the IT industry. I started more than 20 years ago as a software developer and during all these years I've worked in many different roles: senior developer, team lead, pre-sales & Account Manager, and now helping Manfred to reach more customers",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/a0e83500-2123-47f6-9242-f2e538319e06__v0e9383_2.jpg",
         "alt": "_V0E9383_2.jpg"
@@ -254,7 +254,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -441,12 +441,6 @@
       ],
       "contactMails": [
         "raulcotrina@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "699089093",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -456,7 +450,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -497,7 +491,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       }
     ],
