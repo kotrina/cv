@@ -85,12 +85,12 @@
         },
         "roles": [
           {
-            "name": "Business Analytics Sales Specialist",
+            "name": "Sales Specialist",
             "startDate": "2019-01-01",
             "finishDate": "2020-09-30",
             "challenges": [
               {
-                "description": "At Avanttic, acquired by CGI\n\nCreate the Sales Strategy\nCreate POC and presentation to customers.\nArchitecture definition.\nWorking closely with the sales team on proposals and pitches for business\nWorking closely with customers to understand and capture requirements.\nPresenting proposals to customers alongside members of the sales team.\n\nOracle Analytics Cloud, Oracle Data Integrator, Oracle Cloud, OBIEE, MongoDB, Apache Cassandra, etc..."
+                "description": "At Avanttic, acquired by CGI\n\nCreate the Sales Strategy\nCreate POC and presentation to customers.\nArchitecture definition.\nWorking closely with the sales team on proposals and pitches for business\nWorking closely with customers to understand and capture requirements.\nPresenting proposals to customers alongside members of the sales team.\n"
               }
             ]
           }
