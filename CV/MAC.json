@@ -514,8 +514,7 @@
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
-        "permanent",
-        "freelance"
+        "permanent"
       ]
     }
   },
